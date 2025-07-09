@@ -37,7 +37,7 @@ npm run start:dev
 npm run start
 
 ```
-## 🚀 API Endpoints
+##  API Endpoints
 
 ### 1. Get Total Reward Points
 
